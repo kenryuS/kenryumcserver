@@ -2,7 +2,7 @@
 Information page of Kenryu's Minecraft Server
 
 ## General Information
-[KenryuS](https://github.com/kenryuS) running the Minecraft Java Server. The server started on June 3, 2021.
+[KenryuS](https://github.com/kenryuS) running the Minecraft **Java** Server. The server started on June 3, 2021.
 
 ## Server Specification
 
@@ -14,8 +14,19 @@ Information page of Kenryu's Minecraft Server
 
 ## Sign Up Form
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSegNKBIgpZsePkwQNlZMjbWu2L9n3JllkwfVjQ7ZqGYqWhwRQ/viewform?embedded=true" width="620" height="463" frameborder="1" marginheight="0" marginwidth="0">Loading…</iframe>
-**Form doesn't show?**
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSegNKBIgpZsePkwQNlZMjbWu2L9n3JllkwfVjQ7ZqGYqWhwRQ/viewform?embedded=true" width="600" height="463" frameborder="1" marginheight="0" marginwidth="0">Loading…</iframe>
+**Form doesn't show?[ Click Here to open in New Tab!](https://forms.gle/BDK3c6Y7EDR9z6Jx7)**
 <div></div>
 ## Policy
 You can download the Copy of policy file in text document from Here
+
+### Policy document(summarized)
+- Server is for only Java Edition
+- Administrator is Kenryu
+- Please report the Bug or Problem to administrator
+- **DO NOT** make the Lag machine
+- Don't tell the IP address (This is for Player Protection)
+
+### About Privacy
+- Server Administrator can track your position using dynmap plugin
+- Server Administrator can see the server log anytime even administrator is offline

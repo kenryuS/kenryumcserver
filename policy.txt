@@ -12,7 +12,7 @@ Don’t tell the IP
 
 About privacy:
 Administrator can track your position using dynmap plugin
-Administrator can see the log of the server anytime
+Administrator can see the server log anytime even the administrator is offline
 
 
 About the ban/kick:
