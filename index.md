@@ -2,6 +2,7 @@
 This is the information page of Kenryu's Minecraft Server
 
 ## General Information
+![](https://kenryus.github.io/kenryumcserver/IMG/1.png)
 [KenryuS](https://github.com/kenryuS) running the 24/7 Minecraft **Java** Server. The server started on June 3, 2021.
 
 ## Server Specification
