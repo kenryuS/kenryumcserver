@@ -18,7 +18,7 @@ This is the information page of Kenryu's Minecraft Server
 **Form doesn't show?** <a href='https://forms.gle/BDK3c6Y7EDR9z6Jx7' target='new'>Click Here!</a>
 <div></div>
 ## Policy
-You can download the Copy of policy file in text document from <a href='https://kenryus.github.io/kenryumcserver/policy.txt' download="text">Here</a>
+You can download the Copy of policy file in text document from <a href='https://kenryus.github.io/kenryumcserver/policy.txt' download="MCserverPolicy.txt">Here</a>
 
 ### General Policy(summarized)
 - Server is for only Java Edition
@@ -30,3 +30,7 @@ You can download the Copy of policy file in text document from <a href='https://
 ### About Privacy
 - Server Administrator can track your position using dynmap plugin
 - Server Administrator can see the server log anytime even administrator is offline
+
+## Event Calendar
+<iframe src="https://calendar.google.com/calendar/embed?src=0hfabf7fnkq8k2jv18s8qc4qa0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="640" height="450" frameborder="1" scrolling="no"></iframe>
+In this calendar, the event and critical server restart schedule of the server.
