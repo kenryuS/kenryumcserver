@@ -1,4 +1,5 @@
 # kenryumcserver
 Information page of Kenryu's Minecraft Server
 
-# heading 1
+# General Information
+[KenryuS](https://github.com/kenryuS) running the Minecraft Java Server.
