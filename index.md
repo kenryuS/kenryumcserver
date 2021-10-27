@@ -13,3 +13,5 @@ Information page of Kenryu's Minecraft Server
 - Operator: PaisleyChain375(XBox Profile Name)
 
 ## Sign Up Form
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSegNKBIgpZsePkwQNlZMjbWu2L9n3JllkwfVjQ7ZqGYqWhwRQ/viewform?embedded=true" width="640" height="1853" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
