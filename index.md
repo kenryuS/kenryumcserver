@@ -2,7 +2,7 @@
 Information page of Kenryu's Minecraft Server
 
 ## General Information
-![KenryuS](https://github.com/kenryuS) running the Minecraft Java Server. The server started on June 3, 2021.
+[KenryuS](https://github.com/kenryuS) running the Minecraft Java Server. The server started on June 3, 2021.
 
 ## Server Specification
 

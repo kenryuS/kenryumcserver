@@ -1,0 +1,36 @@
+Kenryu MC Server Policy
+Date: 10/27/2021
+
+In this server, you must agree to:
+The client for this server is only for the Java Edition
+Not destroy other’s structure without their permission
+Administrator(Kenryu) can use all commands include stop, ban, kick command
+Not make any types of the lag machine
+Report the bug/problem on the server to administrator
+Don’t tell the IP
+
+
+About privacy:
+Administrator can track your position using dynmap plugin
+Administrator can see the log of the server anytime
+
+
+About the ban/kick:
+You may ban/kick out of the server for these reasons:
+terrorism in the server(such as massive destruction of world)
+The harassment in the server
+Server crash due to the lag machine/Packet DOS/DDOS
+To become the primary offender of security threats (Hacking)
+Make the world unable to play
+
+
+About maintenance of server:
+Once a week, I will stop the server for about 10 minutes if there are the plugin and server software update information.
+Every end of the month, I will stop the server for less than 40 minutes for operating system update and hardware maintenance.
+The time of maintenance will be on 17:00(5:00 PM) ET(Eastern Time zone)
+
+
+Recommended Requirements:
+Minecraft Java Edition 1.17.1
+Windows 10/MacOSX/Ubuntu 20.04 or up
+Internet with speed of more than 100MB/S
