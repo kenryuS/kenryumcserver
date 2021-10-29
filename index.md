@@ -24,6 +24,7 @@ You can download the Copy of policy file in text document from <a href='https://
 ### General Policy(summarized)
 - Server is for only Java Edition
 - Administrator is Kenryu
+- Server can handle up to 10 player
 - Please report the Bug or Problem to administrator
 - **DO NOT** make the Lag machine
 - Don't tell the IP address (This is for Player Protection)

@@ -3,6 +3,7 @@ Date: 10/27/2021
 
 In this server, you must agree to:
 The client for this server is only for the Java Edition
+Due to the RAM amount, the server permit the player up to 10 player
 Not destroy other’s structure without their permission
 Administrator(Kenryu) can use all commands include stop, ban, kick command
 Not make any types of the lag machine
