@@ -19,7 +19,7 @@ This is the information page of Kenryu's Minecraft Server
 **Form doesn't show?** <a href='https://forms.gle/BDK3c6Y7EDR9z6Jx7' target='new'>Click Here!</a>
 <div></div>
 ## Policy
-You can download the Copy of policy file in text document from <a href='https://kenryus.github.io/kenryumcserver/policy.txt' download="MCserverPolicy.txt">Here</a>
+You can view/download the policy text file from <a href='https://kenryus.github.io/kenryumcserver/policy.txt'>Here</a>
 
 ### General Policy(summarized)
 - Server is for only Java Edition
