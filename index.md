@@ -15,8 +15,8 @@ This is the information page of Kenryu's Minecraft Server
 
 ## Sign Up Form
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSegNKBIgpZsePkwQNlZMjbWu2L9n3JllkwfVjQ7ZqGYqWhwRQ/viewform?embedded=true" width="600" height="463" frameborder="1" marginheight="0" marginwidth="0">Loading…</iframe>
-**Form doesn't show?** <a href='https://forms.gle/BDK3c6Y7EDR9z6Jx7' target='new'>Click Here!</a>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSexwiucdC6I29GSAKNld9XF3ESNZcYZ9rn9DcSw3t7tywnlbw/viewform?embedded=true" width="600" height="463" frameborder="1" marginheight="0" marginwidth="0">Loading…</iframe>
+**Form doesn't show?** <a href='https://forms.gle/RX6CmUUxxHGoupzc8' target='new'>Click Here!</a>
 <div></div>
 ## Policy
 You can view/download the policy text file from <a href='https://kenryus.github.io/kenryumcserver/policy.txt'>Here</a>
