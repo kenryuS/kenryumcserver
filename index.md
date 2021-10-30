@@ -13,11 +13,18 @@ This is the information page of Kenryu's Minecraft Server
 - RAM: 3GB/4GB (MC server/Total)
 - Operator: PaisleyChain375(XBox Profile Name)
 
+## News
+<iframe src='https://kenryus.github.io/kenryumcserver/news.txt' width="600" height="463" frameborder="1" marginwidth="0" marginheight="0">Loading...</iframe>
+
+## Event Calendar
+<iframe src="https://calendar.google.com/calendar/embed?src=0hfabf7fnkq8k2jv18s8qc4qa0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="600" height="450" frameborder="1" scrolling="no"></iframe>
+In this calendar, the event and critical server restart schedule of the server.
+
 ## Sign Up Form
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSexwiucdC6I29GSAKNld9XF3ESNZcYZ9rn9DcSw3t7tywnlbw/viewform?embedded=true" width="600" height="463" frameborder="1" marginheight="0" marginwidth="0">Loading…</iframe>
 **Form doesn't show?** <a href='https://forms.gle/RX6CmUUxxHGoupzc8' target='new'>Click Here!</a>
-<div></div>
+
 ## Policy
 You can view/download the policy text file from <a href='https://kenryus.github.io/kenryumcserver/policy.txt'>Here</a>
 
@@ -32,7 +39,3 @@ You can view/download the policy text file from <a href='https://kenryus.github.
 ### About Privacy
 - Server Administrator can track your position using dynmap plugin
 - Server Administrator can see the server log anytime even administrator is offline
-
-## Event Calendar
-<iframe src="https://calendar.google.com/calendar/embed?src=0hfabf7fnkq8k2jv18s8qc4qa0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="600" height="450" frameborder="1" scrolling="no"></iframe>
-In this calendar, the event and critical server restart schedule of the server.
