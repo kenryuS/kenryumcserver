@@ -18,7 +18,7 @@ In this calendar, the event and critical server restart schedule of the server.
 **Form doesn't show?** <a href='https://forms.gle/RX6CmUUxxHGoupzc8' target='new'>Click Here!</a>
 
 ## Policy
-You can view/download the policy text file from <a href='https://kenryus.github.io/kenryumcserver/policy.txt'>Here</a>
+You can view/download the full policy text file from <a href='https://kenryus.github.io/kenryumcserver/policy.txt'>Here</a>
 
 ### General Policy(summarized)
 - Server is for only Java Edition
