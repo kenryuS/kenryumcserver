@@ -6,7 +6,7 @@ This is the information page of Kenryu's Minecraft Server
 [KenryuS](https://github.com/kenryuS) running the 24/7 Minecraft **Java** Server. The server started on June 3, 2021.
 
 ## News
-<iframe src='https://kenryus.github.io/kenryumcserver/news.txt' width="600" height="100" frameborder="1" marginwidth="0" marginheight="0">Loading...</iframe>
+<iframe src='https://kenryus.github.io/kenryumcserver/news.html' width="600" height="100" frameborder="1" marginwidth="0" marginheight="0">Loading...</iframe>
 
 ## Event Calendar
 <iframe src="https://calendar.google.com/calendar/embed?src=0hfabf7fnkq8k2jv18s8qc4qa0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="600" height="450" frameborder="1" scrolling="no"></iframe>
