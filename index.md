@@ -38,7 +38,7 @@ You can view/download the full policy text file from <a href='https://kenryus.gi
 ## Server Specification
 
 - Operating System: Ubuntu 20.04.3 Server LTS
-- Server Software: Paper MC 1.17
+- Server Software: Paper MC 1.17.1 ([link](https://papermc.io/) to the homepage)
 - CPU: Intel Celeron B820
 - RAM: 3GB/4GB (MC server/Total)
 - Operator: PaisleyChain375(XBox Profile Name)
