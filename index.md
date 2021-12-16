@@ -18,14 +18,14 @@ In this calendar, the event and critical server restart schedule of the server.
 ## Sign Up Form
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSexwiucdC6I29GSAKNld9XF3ESNZcYZ9rn9DcSw3t7tywnlbw/viewform?embedded=true" width="600" height="463" frameborder="1" marginheight="0" marginwidth="0">Loading…</iframe>
-**Form doesn't show?** <a href='https://forms.gle/RX6CmUUxxHGoupzc8' target='new'>Click Here!</a>
+**Form doesn't show?** [Click Here!](https://forms.gle/RX6CmUUxxHGoupzc8)
 
 ## Reporting Bug/Problem
 
-Please create the issue to this [website's github repository](https://github.com/kenryuS/kenryumcserver/issues) to report the Bug/Problem on the server. Please report anything wrong to make our server great for long time!
+Please report the Bugs/Problems as GitHub issue of this [website's github repository](https://github.com/kenryuS/kenryumcserver/issues). Please report anything wrong to make our server great for long time!
 
 ## Policy
-You can view/download the full policy text file from <a href='https://kenryus.github.io/kenryumcserver/policy.txt'>Here</a>
+You can view/download the full policy text file from [Here](https://kenryus.github.io/kenryumcserver/policy.txt).
 
 ### General Policy(summarized)
 - Server is for only Java Edition
@@ -42,7 +42,7 @@ You can view/download the full policy text file from <a href='https://kenryus.gi
 ## Server Specification
 
 - Operating System: Ubuntu 20.04.3 Server LTS
-- Server Software: Paper MC 1.17.1 ([link](https://papermc.io/) to the homepage)
+- Server Software: Paper MC 1.17.1 ([link](https://papermc.io/) to the software homepage)
 - CPU: Intel Celeron B820
 - RAM: 3GB/4GB (MC server/Total)
 - Operator: PaisleyChain375(XBox Profile Name)
