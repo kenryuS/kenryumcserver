@@ -18,7 +18,8 @@ In this calendar, the event and critical server restart schedule of the server.
 ## Sign Up Form
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSexwiucdC6I29GSAKNld9XF3ESNZcYZ9rn9DcSw3t7tywnlbw/viewform?embedded=true" width="600" height="463" frameborder="1" marginheight="0" marginwidth="0">Loading…</iframe>
-**Form doesn't show?** [Click Here!](https://forms.gle/RX6CmUUxxHGoupzc8)
+**Form doesn't show?**
+<a href='https://forms.gle/RX6CmUUxxHGoupzc8' target=new>Click Here!</a>
 
 ## Reporting Bug/Problem
 
