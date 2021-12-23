@@ -1,5 +1,5 @@
 Kenryu MC Server Policy
-Date: 10/27/2021
+Date: 12/22/2021
 
 In this server, you must agree to:
 The client for this server is only for the Java Edition
@@ -8,12 +8,20 @@ Not destroy other’s structure without their permission
 Administrator(Kenryu) can use all commands include stop, ban, kick command
 Not make any types of the lag machine
 Report the bug/problem on the server to administrator
-Don’t tell the IP
+Don’t tell the IP without the permission from administrator
 
 
 About privacy:
 Administrator can track your position using dynmap plugin
 Administrator can see the server log anytime even the administrator is offline
+
+
+The Power of Administrator:
+Administrator has the power of issuing the commands from local console or remote console from SSH
+Administrator has the power of using the command blocks
+Administrator has the power to ban/kick player(s) from the server
+Administrator has the power of stop the server in anytime even without notice
+Administrator has the power of changing the server software
 
 
 About the ban/kick:
