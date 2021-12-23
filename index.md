@@ -34,11 +34,18 @@ You can view/download the full policy text file from [Here](https://kenryus.gith
 - Server can handle up to 10 player
 - Please report the Bug or Problem to administrator
 - **DO NOT** make the Lag machine
-- Don't tell the IP address (This is for Player Protection)
+- Don't tell the IP address without the permission from administrator (This is for Player Protection)
 
 ### About Privacy
 - Server Administrator can track your position using dynmap plugin
 - Server Administrator can see the server log anytime even administrator is offline
+
+### The Power of Administrator:
+- Administrator has the power of issuing the commands from local console or remote console from SSH
+- Administrator has the power of using the command blocks
+- Administrator has the power to ban/kick player(s) from the server
+- Administrator has the power of stop the server in anytime even without notice
+- Administrator has the power of changing the server software
 
 ## Server Specification
 
