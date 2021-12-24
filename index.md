@@ -43,7 +43,8 @@ You can view/download the full policy text file from [Here](https://kenryus.gith
 ### The Power of Administrator:
 - Administrator has the power of issuing the commands from local console or remote console from SSH
 - Administrator has the power of using the command blocks
-- Administrator has the power to ban/kick player(s) from the server
+- Administrator has the power of changing the command permission both indivisually and group
+- Administrator has the power of ban/kick player(s) from the server
 - Administrator has the power of stop the server in anytime even without notice
 - Administrator has the power of changing the server software
 
@@ -54,3 +55,4 @@ You can view/download the full policy text file from [Here](https://kenryus.gith
 - CPU: Intel Celeron B820
 - RAM: 3GB/4GB (MC server/Total)
 - Operator: PaisleyChain375(XBox Profile Name)
+- Plugins: AdvancedTeleport, CoordsManager, dynmap, LuckPerms, WorldEdit
