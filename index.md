@@ -6,7 +6,8 @@ This is the information page of Kenryu's Minecraft Server
 [KenryuS](https://github.com/kenryuS) running the 24/7 Minecraft **Java** Server. The server started on June 3, 2021.
 
 ## News
-<iframe src='https://kenryus.github.io/kenryumcserver/news.html' width="600" height="200" frameborder="1" marginwidth="0" marginheight="0"><a href="news.html"></a></iframe>
+<iframe src='https://kenryus.github.io/kenryumcserver/news.html' width="550" height="200" frameborder="1" marginwidth="0" marginheight="0"></iframe>
+Click [HERE](https://kenryus.github.io/kenryumcserver/news.html) for better view.
 
 ## For Bedrock Edition
 The Bedrock Server is now in testing! The Events, and the web page might change a little bit.
@@ -51,7 +52,7 @@ You can view/download the full policy text file from [Here](https://kenryus.gith
 ## Server Specification
 
 - Operating System: Ubuntu 20.04.3 Server LTS
-- Server Software: Paper MC 1.17.1 ([link](https://papermc.io/) to the software homepage)
+- Server Software: Paper MC 1.18.1 ([link](https://papermc.io/) to the software homepage)
 - CPU: Intel Celeron B820
 - RAM: 3GB/4GB (MC server/Total)
 - Operator: PaisleyChain375(XBox Profile Name)
