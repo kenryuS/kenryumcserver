@@ -1,53 +1,55 @@
 Kenryu MC Server Policy
-Date: 12/24/2021 18:06 ET
+Updated Date: 02/06/2022 10:23 ET
 
 =================================================================================================================================
 
 In this server, you must agree to:
-The client for this server is only for the Java Edition
-Due to the RAM amount, the server permit the player up to 10 player
-Not destroy other’s structure without their permission
-Administrator(Kenryu) can use all commands include stop, ban, kick command
-Not make any types of the lag machine
-Report the bug/problem on the server to administrator
-Don’t tell the IP without the permission from administrator
+  The client for this server is only for the Java Edition
+  Due to the RAM amount, the server permit the player up to 10 player
+  Not destroy other’s structure without their permission
+  Administrator(Kenryu) can use all commands include stop, ban, kick command
+  Not make any types of the lag machine
+  Report the bug/problem on the server to administrator
+  Don’t tell the IP without the permission from administrator
 
 =================================================================================================================================
 
 About privacy:
-Administrator can track your position using dynmap plugin
-Administrator can see the server log anytime even the administrator is offline
+  Administrator can track your position using dynmap plugin
+  Administrator can see the server log anytime even the administrator is offline
 
 =================================================================================================================================
 
 The Power of Administrator:
-Administrator has the power of issuing the commands from local console or remote console from SSH
-Administrator has the power of using the command blocks
-Administrator has the power of changing the command permission both indivisually and group
-Administrator has the power to ban/kick player(s) from the server
-Administrator has the power of stop the server in anytime even without notice
-Administrator has the power of changing the server software
+  Administrator has the power of issuing the commands from local console or remote console from SSH
+  Administrator has the power of using the command blocks
+  Administrator has the power of changing the command permission both indivisually and group
+  Administrator has the power to ban/kick player(s) from the server
+  Administrator has the power of stop the server in anytime even without notice
+  Administrator has the power of changing the server software
 
 =================================================================================================================================
 
 About the ban/kick:
-You may ban/kick out of the server for these reasons:
-terrorism in the server(such as massive destruction of world)
-The harassment in the server
-Server crash due to the lag machine/Packet DOS/DDOS
-To become the primary offender of security threats (Hacking)
-Make the world unable to play
+
+  You may ban/kick out of the server for these reasons:
+    terrorism in the server(such as massive destruction of world)
+    The harassment in the server
+    Server crash due to the lag machine/Packet DOS/DDOS
+    To become the primary offender of security threats (Hacking)
+    Make the world unable to play
 
 =================================================================================================================================
 
 About maintenance of server:
-Once a week, I will stop the server for about 10 minutes if there are the plugin and server software update information.
-Every end of the month, I will stop the server for less than 40 minutes for operating system update and hardware maintenance.
+
+Every weekend, I will stop the server for about 10 minutes if there are the plugin and server software update information.
+Twice in the month, I will stop the server for less than 45 minutes for operating system update and hardware maintenance.
 The time of maintenance will be on 17:00(5:00 PM) ET(Eastern Time zone)
 
 =================================================================================================================================
 
 Recommended Requirements:
-Minecraft Java Edition 1.17.1
-Windows 10/MacOSX/Ubuntu 20.04 or up
-Internet with speed of more than 100MB/S
+  Minecraft Java Edition 1.18.1
+  Windows 10/MacOSX/Ubuntu 20.04 or up
+  Internet with speed of more than 100MB/S
