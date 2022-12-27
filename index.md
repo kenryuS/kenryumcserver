@@ -2,7 +2,8 @@
 This is the information page of Kenryu's Minecraft Server
 
 ## General Information
-![](https://kenryus.github.io/kenryumcserver/IMG/1.png)
+![The former server](https://kenryus.github.io/kenryumcserver/IMG/1.png)
+
 [KenryuS](https://github.com/kenryuS) running the irregular cycle Minecraft **Java** Server. The server started on December 27, 2022.
 
 ## News
@@ -10,7 +11,7 @@ This is the information page of Kenryu's Minecraft Server
 Click [HERE](https://kenryus.github.io/kenryumcserver/news.html) for better view.
 
 ## For Bedrock Edition
-The Bedrock Server is welcomed! Thanks to the [Geyser](https://github.com/GeyserMC/Geyser), the bridge server that let bedrock player joins to the Java server.
+The Bedrock users are welcomed! Thanks to the [Geyser](https://github.com/GeyserMC/Geyser), the bridge server that let bedrock player joins to the Java server.
 
 ## Event Calendar
 <iframe src="https://calendar.google.com/calendar/embed?src=0hfabf7fnkq8k2jv18s8qc4qa0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="600" height="450" frameborder="1" scrolling="no"></iframe>
