@@ -1,11 +1,11 @@
 Kenryu MC Server Policy
-Updated Date: 02/06/2022 10:23 ET
+Updated Date: 12/27/2022 14: ET
 
 =================================================================================================================================
 
 In this server, you must agree to:
-  The client for this server is only for the Java Edition
-  Due to the RAM amount, the server permit the player up to 10 player
+  The client for this server is both the Java and Bedrock Edition
+  Due to the RAM amount and limited network access, the server permit the player up to 20 player
   Not destroy other’s structure without their permission
   Administrator(Kenryu) can use all commands include stop, ban, kick command
   Not make any types of the lag machine
@@ -21,12 +21,12 @@ About privacy:
 =================================================================================================================================
 
 The Power of Administrator:
-  Administrator has the power of issuing the commands from local console or remote console from SSH
+  Administrator has the power of issuing the commands from docker exec
   Administrator has the power of using the command blocks
   Administrator has the power of changing the command permission both indivisually and group
   Administrator has the power to ban/kick player(s) from the server
   Administrator has the power of stop the server in anytime even without notice
-  Administrator has the power of changing the server software
+  Administrator has the power of changing the server software, plugins/mods
 
 =================================================================================================================================
 
@@ -43,13 +43,14 @@ About the ban/kick:
 
 About maintenance of server:
 
-Every weekend, I will stop the server for about 10 minutes if there are the plugin and server software update information.
+Every bi-weekend, I will stop the server for about 10 minutes if there are the plugin and server software update information.
 Twice in the month, I will stop the server for less than 45 minutes for operating system update and hardware maintenance.
 The time of maintenance will be on 17:00(5:00 PM) ET(Eastern Time zone)
 
 =================================================================================================================================
 
 Recommended Requirements:
-  Minecraft Java Edition 1.18.1
-  Windows 10/MacOSX/Ubuntu 20.04 or up
+  Minecraft Java Edition 1.19.3 or corresponding Bedrock Edition version
+  Java Edition: Windows 10/MacOSX/Ubuntu 20.04 or up
+  Bedrock Edition: Android 10, iOS 12 or up
   Internet with speed of more than 100MB/S

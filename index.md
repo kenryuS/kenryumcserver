@@ -3,14 +3,14 @@ This is the information page of Kenryu's Minecraft Server
 
 ## General Information
 ![](https://kenryus.github.io/kenryumcserver/IMG/1.png)
-[KenryuS](https://github.com/kenryuS) running the 24/7 Minecraft **Java** Server. The server started on June 3, 2021.
+[KenryuS](https://github.com/kenryuS) running the irregular cycle Minecraft **Java** Server. The server started on December 27, 2022.
 
 ## News
 <iframe src='https://kenryus.github.io/kenryumcserver/news.html' width="550" height="200" frameborder="1" marginwidth="0" marginheight="0"></iframe>
 Click [HERE](https://kenryus.github.io/kenryumcserver/news.html) for better view.
 
 ## For Bedrock Edition
-The Bedrock Server is now in testing! The Events, and the web page might change a little bit.
+The Bedrock Server is welcomed! Thanks to the [Geyser](https://github.com/GeyserMC/Geyser), the bridge server that let bedrock player joins to the Java server.
 
 ## Event Calendar
 <iframe src="https://calendar.google.com/calendar/embed?src=0hfabf7fnkq8k2jv18s8qc4qa0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="600" height="450" frameborder="1" scrolling="no"></iframe>
@@ -30,9 +30,9 @@ Please report the Bugs/Problems as GitHub issue of this [website's github reposi
 You can view/download the full policy text file from [Here](https://kenryus.github.io/kenryumcserver/policy.txt).
 
 ### General Policy(summarized)
-- Server is for only Java Edition
+- Server is for both Java and Bedrock Edition
 - Administrator is Kenryu
-- Server can handle up to 10 player
+- Server can handle up to 20 player
 - Please report the Bug or Problem to administrator
 - **DO NOT** make the Lag machine
 - Don't tell the IP address without the permission from administrator (This is for Player Protection)
@@ -42,7 +42,7 @@ You can view/download the full policy text file from [Here](https://kenryus.gith
 - Server Administrator can see the server log anytime even administrator is offline
 
 ### The Power of Administrator:
-- Administrator has the power of issuing the commands from local console or remote console from SSH
+- Administrator has the power of issuing the commands from `docker exec`
 - Administrator has the power of using the command blocks
 - Administrator has the power of changing the command permission both indivisually and group
 - Administrator has the power of ban/kick player(s) from the server
@@ -51,9 +51,9 @@ You can view/download the full policy text file from [Here](https://kenryus.gith
 
 ## Server Specification
 
-- Operating System: Ubuntu 20.04.3 Server LTS
-- Server Software: Paper MC 1.18.1 ([link](https://papermc.io/) to the software homepage)
-- CPU: Intel Celeron B820
-- RAM: 3GB/4GB (MC server/Total)
+- Operating System: Alpine on Docker
+- Server Software: Paper MC ([link](https://papermc.io/) to the software homepage)
+- CPU: Intel Core i7-10700K
+- RAM: 6GB/8GB (MC server/Total reserved)
 - Operator: PaisleyChain375(XBox Profile Name)
-- Plugins: AdvancedTeleport, CoordsManager, dynmap, LuckPerms, WorldEdit
+- Plugins: AdvancedTeleport, dynmap, WorldEdit, LuckPerms
