@@ -2,11 +2,11 @@
 This is the information page of Kenryu's Minecraft Server
 
 ## General Information
-![The former server](https://kenryus.github.io/kenryumcserver/IMG/1.png)
+![The former server](https://kenryus.github.io/kenryumcserver/IMG/2023-07-10_22.41.23.png)
 
 [KenryuS](https://github.com/kenryuS) running the Minecraft **Java** Server. The server started on December 27, 2022.
 
-## News
+## Discord
 <iframe src="https://discord.com/widget?id=849881387502534667&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## For Bedrock Edition
